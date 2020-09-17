@@ -17,13 +17,17 @@
 
 ### ĐIỀU KIỆN TIÊN QUYẾT
 * Tối thiểu chạy được trên hệ điều hành: Windows.
-* Cài đặt phiên bản Visual Studio 2015 trở lên.
-* Cài Đặt Windows Forms vào Visual Studio.
+
 # 
 
 ### CÁCH THỰC THI CHƯƠNG TRÌNH
 # 
+### Giai Đoạn 1:
+### Giai Đoạn 2:
+# 
 ### CÀI ĐẶT
+# 
+### CÔNG CỤ
 # 
 ### THÔNG TIN LIÊN LẠC
 * 19522473@gm.uit.edu.vn
@@ -31,4 +35,4 @@
 * 19521652@gm.uit.edu.vn
 ## 
 
-----------------------HẾT-------------------------
+-------------------------------------------------------------------HẾT----------------------------------------------------------
