@@ -1,0 +1,10 @@
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.Form1.resources
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.pdb
