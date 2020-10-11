@@ -114,6 +114,7 @@
             this.bntDocument.TabIndex = 2;
             this.bntDocument.Text = "Tài Liệu";
             this.bntDocument.UseVisualStyleBackColor = true;
+            this.bntDocument.Click += new System.EventHandler(this.bntDocument_Click);
             // 
             // bntNote
             // 

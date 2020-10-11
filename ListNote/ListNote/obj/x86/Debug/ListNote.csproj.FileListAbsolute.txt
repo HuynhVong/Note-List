@@ -1,0 +1,22 @@
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.exe.config
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Documents.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Form1.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Properties.Resources.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csprojAssemblyReference.cache
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csprojAssemblyReference.cache
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Documents.resources
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Form1.resources
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.Properties.Resources.resources
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csproj.GenerateResource.cache
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.csproj.CoreCompileInputs.cache
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.exe
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\obj\x86\Debug\ListNote.pdb
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.exe.config
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.exe
+D:\Lap trinh truc quan\Note-List-master\ListNote\ListNote\bin\x86\Debug\ListNote.pdb

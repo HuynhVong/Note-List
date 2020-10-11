@@ -8,3 +8,14 @@ C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.exe
 C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.pdb
 C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.exe
 C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Form1.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources

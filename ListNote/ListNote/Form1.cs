@@ -17,5 +17,10 @@ namespace ListNote
             InitializeComponent();
         }
 
+        private void bntDocument_Click(object sender, EventArgs e)
+        {
+            Documents dform = new Documents();
+            dform.Show();
+        }
     }
 }
